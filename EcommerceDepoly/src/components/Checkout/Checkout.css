@@ -1,0 +1,161 @@
+#main-div{
+    margin-top: 14vh;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    font-size: 28px;
+}
+
+.checkout_headings{
+    font-size: 1.2rem;
+}
+
+
+
+#left-box{
+    width: 50%;
+    height: auto;
+    border-right: 3px solid silver;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputfield{
+    width: 80%;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 2px solid silver;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#main_heading{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
+
+.gather{
+    display: flex;
+    width: 80%;
+}
+#second{
+    padding-left: 20px;
+    margin-left: 50px;
+}
+
+#btn{
+  background-color: black;
+  color: white;
+  width: 80%;
+  height: 50px;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 500;
+
+}
+
+#right-box{
+    width: 50%;
+    height: auto;
+    padding-left: 10px;
+}
+
+#mobiletable{
+    display: none;
+}
+
+#mobileline{
+    display: none;
+}
+
+.error{
+    color: red;
+    font-size:  20px;
+}
+
+@media only screen and (max-width: 600px) {
+    #main-div{
+        margin-top: 14vh;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gather{
+        display: block;
+        width: 100%;
+    }
+
+    #left-box{
+        width: 100%;
+        height: auto;
+    }
+
+    #mobileline{
+        background-color: rgb(149, 149, 149);
+        height: 1px;
+        width: 100%;
+        display: block;
+        margin-top: 10px;
+    }
+
+    #second{
+        padding-left: 20px;
+        margin-left: 0px;
+    }
+
+   #table{
+    display: none;
+   }
+
+    .inputfield{
+        width: 80%;
+        height: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        border: 2px solid silver;
+        padding: 10px;
+        font-size: 19px;
+    }
+
+    #right-box{
+        width: 100%;
+        height: auto;
+    }
+    
+    .combination{
+        margin-bottom: -20px;
+    }
+
+    #btn{
+        background-color: black;
+        color: white;
+        width: 80%;
+        height: 40px;
+        margin-top: 20px;
+        font-size: 19px;
+        font-weight: 500;
+      
+      }
+
+      #bottombox{
+        display: flex;
+        justify-content: space-between;
+      }
+
+      #mobiletable{
+        display: block;
+    }
+
+    #functionalholder{
+        text-align: center;
+    }
+
+}

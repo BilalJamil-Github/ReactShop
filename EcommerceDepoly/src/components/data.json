@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image1": "https://assets0.mirraw.com/images/12402191/3499891_1_zoom.jpg?1713274937",
+        "image2": "https://assets0.mirraw.com/images/12402192/3499891_2_zoom.jpg?1713274937",
+        "name": "Georgette Designer Salwar Suit",
+        "rating": 4,
+        "price": 3000,
+        "newArrival": false,
+        "description": "This Georgette Designer Salwar Suit is perfect for casual occasions with its light and flowy fabric. It offers both comfort and style."
+    },
+    {
+        "id": 2,
+        "image1": "https://assets0.mirraw.com/images/12379399/koskii-ranipink-zariwork-georgette-designer-salwar-suit-ssrm0029576_rani_pink_3_1800x1800_zoom.jpg?1712409729",
+        "image2": "https://assets0.mirraw.com/images/12379400/koskii-ranipink-zariwork-georgette-designer-salwar-suit-ssrm0029576_rani_pink_5_1800x1800_zoom.jpg?1712409728",
+        "name": "Rani Pink Zariwork Suit",
+        "rating": 3,
+        "price": 5000,
+        "newArrival": false,
+        "description": "This vibrant Rani Pink Zariwork Suit is adorned with intricate zari embroidery, making it perfect for festive events."
+    },
+    {
+        "id": 3,
+        "image1": "https://assets0.mirraw.com/images/12500574/9115-A__zoom.jpg?1721025765",
+        "image2": "https://assets0.mirraw.com/images/12500575/9115-A___zoom.jpg?1721025765",
+        "name": "Embroidered Party Wear Suit",
+        "rating": 4,
+        "price": 4000,
+        "newArrival": false,
+        "description": "Turn heads at any party with this Embroidered Party Wear Suit, featuring elegant embroidery for a sophisticated look."
+    },
+    {
+        "id": 4,
+        "image1": "https://assets0.mirraw.com/images/11286825/image_zoom.jpeg?1696936747",
+        "image2": "https://assets0.mirraw.com/images/11286828/image_zoom.jpeg?1678173597",
+        "name": "Bridal Mehendi Lehenga",
+        "rating": 4,
+        "price": 5000,
+        "newArrival": true,
+        "description": "This Bridal Mehendi Lehenga is designed for brides-to-be with its intricate detailing and vibrant colors, ideal for pre-wedding functions."
+    },
+    {
+        "id": 7,
+        "image1": "https://assets0.mirraw.com/images/12815742/image_zoom.jpeg?1725709783",
+        "image2": "https://assets0.mirraw.com/images/12815746/image_zoom.jpeg?1725709793",
+        "name": "Festive Wear Net Saree",
+        "rating": 4,
+        "price": 3000,
+        "newArrival": true,
+        "description": "Light and breezy, this Festive Wear Net Saree is ideal for celebratory events with its subtle design and elegant drape."
+    },
+    {
+        "id": 6,
+        "image1": "https://assets0.mirraw.com/images/11272070/image_zoom.jpeg?1688214579",
+        "image2": "https://assets0.mirraw.com/images/11272071/image_zoom.jpeg?1677669006",
+        "name": "Heavy Border Designer Lehenga",
+        "rating": 5,
+        "price": 5000,
+        "newArrival": false,
+        "description": "Make a statement with this Heavy Border Designer Lehenga, featuring rich embroidery and a stunning border, perfect for weddings and formal occasions."
+    },
+    {
+        "id": 5,
+        "image1": "https://assets0.mirraw.com/images/11399977/2798SL9906B_zoom.jpg?1696931817",
+        "image2": "https://assets0.mirraw.com/images/12350113/9906B-2_zoom.jpg?1711441687",
+        "name": "Traditional Designer Saree",
+        "rating": 4,
+        "price": 4000,
+        "newArrival": true,
+        "description": "This Traditional Designer Saree combines elegance with tradition, perfect for cultural gatherings and special occasions."
+    },
+    {
+        "id": 8,
+        "image1": "https://assets0.mirraw.com/images/10236584/ACT6502_zoom.jpg?1688215218",
+        "image2": "https://assets0.mirraw.com/images/10236585/ACT6502_-_Copy_zoom.jpg?1651737508",
+        "name": "Floral Printed Georgette Suit",
+        "rating": 4,
+        "price": 3000,
+        "newArrival": false,
+        "description": "This Floral Printed Georgette Suit adds a touch of femininity with its delicate floral prints, ideal for casual and semi-formal events."
+    },
+    {
+        "id": 10,
+        "image1": "https://assets0.mirraw.com/images/12465946/image_zoom.jpeg?1715779292",
+        "image2": "https://assets0.mirraw.com/images/12465948/image_zoom.jpeg?1715779296",
+        "name": "Stone Work Designer Saree",
+        "rating": 4,
+        "price": 4000,
+        "newArrival": false,
+        "description": "Dazzle at any event with this Stone Work Designer Saree, featuring intricate stone embellishments for a glamorous look."
+    },
+    {
+        "id": 11,
+        "image1": "https://assets0.mirraw.com/images/12229559/image_zoom.jpeg?1706803207",
+        "image2": "https://assets0.mirraw.com/images/12229562/image_zoom.jpeg?1706803213",
+        "name": "Anarkali Designer Suit",
+        "rating": 5,
+        "price": 3000,
+        "newArrival": false,
+        "description": "This Anarkali Designer Suit offers a regal look with its flowing silhouette and detailed embroidery, perfect for formal gatherings."
+    },
+    {
+        "id": 12,
+        "image1": "https://assets0.mirraw.com/images/12445402/image_zoom.jpeg?1715239566",
+        "image2": "https://assets0.mirraw.com/images/12445404/image_zoom.jpeg?1715239572",
+        "name": "Heavy Embroidered Lehenga",
+        "rating": 4,
+        "price": 5000,
+        "newArrival": false,
+        "description": "This Heavy Embroidered Lehenga is crafted for opulence with its detailed work and rich fabric, ideal for weddings and grand occasions."
+    },
+    {
+        "id": 9,
+        "image1": "https://assets0.mirraw.com/images/12283592/image_zoom.jpeg?1708766023",
+        "image2": "https://assets0.mirraw.com/images/12283595/image_zoom.jpeg?1708766080",
+        "name": "Velvet Embroidered Suit",
+        "rating": 5,
+        "price": 5000,
+        "newArrival": false,
+        "description": "Luxurious and elegant, this Velvet Embroidered Suit is the perfect blend of comfort and style, making it suitable for both casual and formal events."
+    }
+]

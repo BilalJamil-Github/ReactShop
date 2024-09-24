@@ -1,0 +1,210 @@
+#main_div {
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+#image_holder {
+    position: relative;
+    width: 100vw;
+    height: 50vh; 
+    overflow: hidden;
+}
+
+#image_holder #myimg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+#content {
+   display: none;
+}
+
+#content span {
+    display: block;
+}
+
+#box {
+    background-color: rgba(0, 0, 0, 0.7); 
+    padding: 10px;
+}
+
+#boxwork {
+    font-size: 2vw; 
+    color: yellow;
+}
+
+#lower_div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#heading_holder h1 {
+    text-align: center;
+    font-size: 3vw; 
+    margin-bottom: 30px;
+}
+
+#product_holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image_box {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.images {
+    width: auto;
+    height: 250px;
+    margin-top: 10px;
+}
+
+.filled {
+    color: rgb(255, 200, 0);
+}
+
+.unfilled {
+    color: silver;
+}
+
+.rating {
+    font-size: 1rem;
+}
+
+.name {
+    font-size: 1.7rem;
+}
+
+.price {
+    font-size: 1rem;
+}
+
+#videoholder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+video {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+.headingss{
+    font-size: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+    #image_holder {
+        height: 30vh;
+    }
+
+    #content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 4vw; 
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    }
+
+    #boxwork {
+        font-size: 3.5vw;
+    }
+
+    .images {
+        height: 200px;
+    }
+
+   
+
+    #heading_holder h1 {
+        font-size: 7vw;
+    }
+
+    .rating {
+        font-size: 0.9rem;
+    }
+
+    .name {
+        font-size: 1.5rem;
+    }
+
+    .price {
+        font-size: 0.9rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #image_holder {
+        height: 25vh;
+    }
+
+    #content {
+        font-size: 5vw;
+    }
+
+
+    #boxwork {
+        font-size: 4vw;
+    }
+
+    .images {
+        height: 150px;
+    }
+
+    #heading_holder h1 {
+        font-size: 6vw;
+    }
+
+    .rating {
+        font-size: 0.8rem;
+    }
+
+    .name {
+        font-size: 1.3rem;
+    }
+
+    .price {
+        font-size: 0.8rem;
+    }
+
+    #videoholder {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+    
+    video {
+        width: 100%;
+        max-width: 200px;
+        height: auto;
+        margin: 10px;
+    }
+
+    .image_box {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 50px;
+        margin: 60px;
+    }
+    
+    
+}

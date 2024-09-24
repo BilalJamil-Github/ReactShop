@@ -1,0 +1,138 @@
+.footer {
+    margin-top: 10vh;
+    width: 100%;
+    background-color: rgb(42, 42, 42);
+    display: flex;
+    flex-direction: column;
+    color: white;
+    box-sizing: border-box;
+}
+
+#lower {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 1rem; 
+    padding: 10px 0; 
+}
+
+#upper {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+}
+
+#uppercontent {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    color: rgb(227, 227, 227);
+    justify-content: space-between; 
+    flex-wrap: wrap;
+}
+
+#pair_box {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+.heading {
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+.para {
+    font-size: 0.8rem; 
+}
+
+.box {
+    width: 30%; 
+    margin-bottom: 20px; 
+}
+
+.svg {
+    width: 20px;
+}
+
+.extra {
+    width: 30%; 
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    gap: 20px; 
+    margin-top: 1.5rem; 
+}
+
+@media only screen and (max-width: 600px) {
+    .extra {
+        width: 100%; 
+        margin-left: 0;
+    }
+
+    #pair_box {
+        flex-direction: column; 
+        margin-left: -140px;
+    }
+
+    .footer {
+        height: auto; 
+    }
+
+    .svg {
+        width: 20px;
+    }
+
+    .flex {
+        flex-direction: column; 
+        gap: 10px; 
+        margin-top: 1rem;
+    }
+
+    #lower {
+        background-color: rgb(23, 23, 23);
+        font-size: 1rem; 
+        padding: 5px 20px; 
+    }
+
+    #upper {
+        height: auto; 
+        padding: 20px;
+    }
+
+    #uppercontent {
+        flex-direction: column; 
+        align-items: center;
+    }
+
+    .heading {
+        font-size: 1.5rem; 
+    }
+
+   .lis{
+     text-align: left;
+     margin-left: -25px;
+   }
+
+    ul {
+        text-align: center; 
+        margin: 0; 
+    }
+
+    .para {
+        font-size: 0.8rem; 
+        text-align: left;
+    }
+
+    .box {
+        width: 90%;
+        margin-bottom: 15px;
+    }
+}
